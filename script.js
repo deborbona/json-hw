@@ -18,19 +18,19 @@ let jsonDatabase = [
     "picture_url" : "https://cookieandkate.com/images/2017/04/healthy-chocolate-chips-blondies-recipe-1.jpg",
     "category" : "brownie",
     "ingredients" : ["flour", "baking powder", "butter", "brown sugar", "salt", "coffee", "eggs", "vanilla extract", "pecans", "chocolate chips"]
-  }
+  },
   {
     "title" : "Carrot Cake",
     "picture_url" : "https://cookieandkate.com/images/2019/06/best-carrot-cake-recipe-4.jpg",
     "category" : "cake",
     "ingredients" : ["flour", "cinnamon", "ginger", "baking powder", "salt", "baking soda", "carrots", "pecans", "olive oil", "honey", "milk", "eggs", "vanilla extract", "frosting"]
-  }
+  },
   {
     "title" : "Cream Cheese Frosting",
     "picture_url" : "https://cookieandkate.com/images/2019/06/cream-cheese-frosting-recipe-1-2-1.jpg",
     "category" : "frosting",
     "ingredients" : ["cream cheese", "butter", "sugar", "vanilla"]
-  }
+  },
   {
     "title" : "No-Bake Greek Yoghurt Tart",
     "picture_url" : "https://cookieandkate.com/images/2018/05/greek-yogurt-tart-with-raspberries-and-strawberries.jpg",
