@@ -1,0 +1,39 @@
+body {
+  background-color: #FADDD7;
+  color: #464646;
+  font-family: 'Zilla Slab', serif;
+  font-size: 2rem;
+  margin: 2vw 5vw 2vw 5vw;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h3 {
+  font-weight: bold;
+  text-decoration: underline;
+  display: flex;
+  justify-content: center;
+}
+
+#allRecipes {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 2vmin;
+  grid-row-gap: 2vmin;
+  font-size: 1.5rem;
+}
+
+.recipeImage {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+.recipe {
+  display: flex;
+  flex-direction: column;
+  padding: 1vmin;
+  border: 5px solid #BFD2FA;
+  height: 100%;
+}
